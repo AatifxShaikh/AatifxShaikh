@@ -32,12 +32,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aatifxshaikh&show_icons=true&locale=en&layout=compact" alt="aatifxshaikh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aatifxshaikh&show_icons=true&locale=en" alt="aatifxshaikh" /></p>
-<img src="https://raw.githubusercontent.com/AatifxShaikh/AatifxShaikh/output/snake.svg" alt="Snake animation" />
-<div align="center">
-  <img src="https://profile-counter.glitch.me/AatifxShaikh/count.svg?"  />
-</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aatifxshaikh&" alt="aatifxshaikh" /></p>
+![Snake animation](https://raw.githubusercontent.com/AatifxShaikh/AatifxShaikh/output/github-contribution-grid-snake-dark.svg)
+
+
 
 
 
