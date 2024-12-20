@@ -32,9 +32,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aatifxshaikh&show_icons=true&locale=en&layout=compact" alt="aatifxshaikh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aatifxshaikh&show_icons=true&locale=en" alt="aatifxshaikh" /></p>
-<img src="https://raw.githubusercontent.com/scr1ptjunk13/scr1ptjunk13/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/AatifxShaikh/AatifxShaikh/output/snake.svg" alt="Snake animation" />
 <div align="center">
-  <img src="https://profile-counter.glitch.me/scr1ptjunk13/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/AatifxShaikh/count.svg?"  />
 </div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aatifxshaikh&" alt="aatifxshaikh" /></p>
