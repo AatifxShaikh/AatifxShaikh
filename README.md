@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Full stack application**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **GO**
 
 - 💬 Ask me about **nextjs,react**
 
