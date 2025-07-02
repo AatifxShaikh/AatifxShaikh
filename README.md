@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aatifxshaikh" alt="aatifxshaikh" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/aatif_shaikh934" target="blank"><img src="https://img.shields.io/twitter/follow/aatif_shaikh934?logo=twitter&style=for-the-badge" alt="aatif_shaikh934" /></a> </p>
+
 
 - 🔭 I’m currently working on **Full stack application**
 
